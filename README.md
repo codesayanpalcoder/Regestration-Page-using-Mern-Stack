@@ -5,4 +5,5 @@ Create a Student Regestration From Using React, Redux, Api, MongoDB, Express, an
 
 
 ## Step by Step Tutorial
-[check Demo](https://657b22b53d52dd2edbb9ee33--willowy-gingersnap-30324c.netlify.app/)
+[check Demo](https://657b2a3176b49c398fb62240--eclectic-salmiakki-1b5efa.netlify.app/)
+[Check Demo Video](https://clipchamp.com/watch/ECv84CXvBvF)
